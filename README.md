@@ -1,6 +1,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=Iam+A+SCRIPTER+FROM+KERALA%E2%9C%8C%EF%B8%8F;LIVE+IN+KERALA%E2%9D%A4%EF%B8%8F">
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shareefshaji&show_icons=true&theme=tokyonight&locale=en" alt="shareefshaji" /></p>
+
 # kl29royalofficail
 <h1 align="center">Hi 👋, I'm KL29ROYAL</h1>
 <h3 align="center">🚀 from India @KERALA🔥🔥🔥</h3>
